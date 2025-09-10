@@ -37,8 +37,13 @@ O objetivo foi aplicar os conceitos aprendidos na prática e consolidar o conhec
 
 ## 📂 Estrutura do Repositório
 dio-lab-azure-vm
+
 |- 📂 images
+
 |-- criação-vm.png
+
 |-- acesso-rdp.png
+
 |-- painel-vm.png
+
 - README.md
